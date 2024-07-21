@@ -1,0 +1,2 @@
+先写calc.l文件，然后生成词法分析器 flex calc.l
+得到calc.tab.h文件，之后写出test.l、test.y文件，然后用批处理运行
